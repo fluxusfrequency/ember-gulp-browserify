@@ -1,0 +1,14 @@
+{
+  "name": "ember-example",
+  "version": "1.0.0",
+  "description": "Example Ember App Built With Gulp and Browserify",
+  "author": "Ben Lewis",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^6.3.2",
+    "browserify-shim": "^3.8.0",
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0",
+    "gulp-rename": "^1.2.0"
+  }
+}
